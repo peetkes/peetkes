@@ -25,7 +25,7 @@ let DATA = {
 
 async function setWeatherInformation() {
   await fetch(
-    `https://api.openweathermap.org/data/2.5/weather?q=${process.env.LOCATION}&appid=${process.env.OPEN_WEATHER_MAP_KEY}&units=metric`
+    `https://api.openweathermap.org/data/2.5/weather?q=Schipluiden&appid=${process.env.OPEN_WEATHER_MAP_KEY}&units=metric`
   )
   .then(response => response.json())
   .then(response => {

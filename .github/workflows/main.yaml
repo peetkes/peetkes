@@ -31,3 +31,4 @@ jobs:
         uses: mikeal/publish-to-github-action@main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          BRANCH_NAME: 'main'

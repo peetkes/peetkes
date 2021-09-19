@@ -17,10 +17,10 @@
 </p>
 
 <h3>Welkom in <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Midden_Delfland_vlag.svg/1200px-Midden_Delfland_vlag.svg.png" width="40"/> Schipluiden!</h3>
-<p>Currently, the weather is: <b> 22°C, <i>few clouds</i></b></br>Today, the sun rises at <b>07:22</b> and sets at <b>19:51</b>.</p>
+<p>Currently, the weather is: <b> 21°C, <i>overcast clouds</i></b></br>Today, the sun rises at <b>07:23</b> and sets at <b>19:49</b>.</p>
 <h3>Where to find me</h3>
 <p><a href="https://github.com/peetkes" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/peetkes" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/peetkes" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every day</b>!</br>Last refresh: Saturday, 18 September, 14:20 CEST<br /></p>
+<p align="center">This <i>README</i> file is generated <b>every day</b>!</br>Last refresh: Sunday, 19 September, 14:20 CEST<br /></p>

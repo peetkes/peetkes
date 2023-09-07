@@ -2,7 +2,8 @@
 
 <p>Welcome to my page! </br> I'm Peter, passionate developer from 🇳🇱 <b>Schipluiden, Netherlands</b>.</p>
 
-<h3>I code with:</h3>
+<p>Find my gists <a href="https://gist.github.com/peetkes">here</a></p>
+<h3>I code with: </h3>
 <p>
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Kubernetes" src="https://img.shields.io/badge/-K8S-46a2f1?style=flat-square&logo=kubernetes&logoColor=white" />

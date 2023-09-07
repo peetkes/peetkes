@@ -2,8 +2,7 @@
 
 <p>Welcome to my page! </br> I'm Peter, passionate developer from 🇳🇱 <b>Schipluiden, Netherlands</b>.</p>
 
-<p>Find my gists <a href="https://gist.github.com/peetkes">here</a></p>
-<h3>I code with: </h3>
+<h3>I code with:</h3>
 <p>
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Kubernetes" src="https://img.shields.io/badge/-K8S-46a2f1?style=flat-square&logo=kubernetes&logoColor=white" />
@@ -20,10 +19,10 @@
 </p>
 
 <h3>Welkom in <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Midden_Delfland_vlag.svg/1200px-Midden_Delfland_vlag.svg.png" width="40"/> Schipluiden!</h3>
-<p>Currently, the weather is: <b> 29°C, <i>clear sky</i></b></br>Today, the sun rises at <b>07:02</b> and sets at <b>20:20</b>.</p>
+<p>Currently, the weather is: <b> 19°C, <i>overcast clouds</i></b></br>Today, the sun rises at <b>07:03</b> and sets at <b>20:18</b>.</p>
 <h3>Where to find me</h3>
 <p><a href="https://github.com/peetkes" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/peetkes" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/peetkes" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every day</b>!</br>Last refresh: Wednesday, 6 September, 14:24 CEST<br /></p>
+<p align="center">This <i>README</i> file is generated <b>every day</b>!</br>Last refresh: Thursday, 7 September, 08:51 CEST<br /></p>
